@@ -1,6 +1,4 @@
-from deli_counter import (
-    line, take_a_number, now_serving
-)
+from deli_counter import *
 
 import io
 import sys
